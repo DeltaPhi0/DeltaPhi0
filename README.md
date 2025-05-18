@@ -61,7 +61,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 📧 Primary Contact: [kenetsokoli601@gmail.com](mailto:kenetsokoli601@gmail.com)  
 🔗 Social Profiles: Coming soon!
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
