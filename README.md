@@ -8,8 +8,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
 
-</div>
-
 ----
 
 ## 🔥 About Me
@@ -39,12 +37,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaPhi0&show_icons=true&theme=radical)](https://github.com/DeltaPhi0)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=radical)](https://github.com/DeltaPhi0)
-
-</div>
 
 ----
 
@@ -90,7 +84,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 **Local Hosting Details**:  
 🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
 
-</div>
 ----
 
 ## ⚡ Current Focus
@@ -111,6 +104,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 *For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
+
+</div>
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
