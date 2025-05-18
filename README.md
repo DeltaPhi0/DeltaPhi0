@@ -56,8 +56,17 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ### Web Development Project
-**Current Task**: Creating website for brother's airsoft team  
-**Status**: Active development (HTML/CSS/JS)
+**Project**: Airsoft Team Website - *"Operation Digital Camo"*  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**Current Status**: 
+`🚧 Active Development` [![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen)]()
+
+**Local Hosting Details**:  
+🌐 **Access**: `http://192.168.0.100:8000` (Local network only)  
+📡 **Port Forwarding**: Nginx reverse proxy in development  
 
 ## ⚡ Current Focus
 - 🔧 Enhancing homelab automation
