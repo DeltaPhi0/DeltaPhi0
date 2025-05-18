@@ -65,8 +65,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 `🚧 Active Development` [![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen)]()
 
 **Local Hosting Details**:  
-🌐 **Access**: `http://192.168.0.100:8000` (Local network only)  
-📡 **Port Forwarding**: Nginx reverse proxy in development  
+🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
 
 ## ⚡ Current Focus
 - 🔧 Enhancing homelab automation
