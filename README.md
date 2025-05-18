@@ -8,6 +8,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
 
+</div>
 ----
 
 ## 🔥 About Me
@@ -33,6 +34,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+<div align="center">
 ----
 
 ## 📈 GitHub Activity
@@ -46,6 +48,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ### Homelab Infrastructure (Started 2025-02-12)
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
+
+</div>
 
 **Core Components**:
 - 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN)
