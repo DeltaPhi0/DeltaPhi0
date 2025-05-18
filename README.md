@@ -116,8 +116,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
 
-[![Holopin Board](https://holopin.io/api/user/board?user=deltaphi0)](https://holopin.io/@deltaphi0)
-
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
