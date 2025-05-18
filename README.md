@@ -62,7 +62,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Current Status**: 
-`🚧 Active Development` [![Progress](https://img.shields.io/badge/Progress-80%25-brightgreen)]()
+`🚧 Active Development` [![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)]()
 
 **Local Hosting Details**:  
 🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
