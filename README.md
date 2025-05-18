@@ -1,8 +1,16 @@
 <!-- Header Section -->
+
+<div align="center">
+
 # Hi there, I'm Ken J. S. (DeltaPhi0)! 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;DevOps+Aspirant;Automation+Focus)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
+
+</div>
+
+----
 
 ## 🔥 About Me
 Tech student building DevOps expertise through hands-on learning. Current focus:
@@ -16,6 +24,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - 🎯 2025 Goals: Python proficiency | OverTheWire Bandit challenge completion | First web page deployment
 - ⚡ Started tech journey: October 2024
 
+----
+
 ## 🛠️ Technical Toolkit
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,9 +35,18 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+----
+
 ## 📈 GitHub Activity
+
+<div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaPhi0&show_icons=true&theme=radical)](https://github.com/DeltaPhi0)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=radical)](https://github.com/DeltaPhi0)
+
+</div>
+
+----
 
 ## 🚀 Active Projects
 ### Homelab Infrastructure (Started 2025-02-12)
@@ -35,7 +54,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
 **Core Components**:
-- 🛡️ **Security + Remote-access**: 3 VPN Server (WireGuard + OpenVPN)
+- 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN)
 - 🎥 **Media Stack**: 
   [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
   [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
@@ -55,6 +74,10 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
+----
+
+<div align="center">
+
 ### Web Development Project
 **Project**: Airsoft Team Website - *"Operation Digital Camo"*  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -67,12 +90,17 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 **Local Hosting Details**:  
 🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
 
+</div>
+----
+
 ## ⚡ Current Focus
-- 🔧 Enhancing homelab automation
-- 🐍 Advancing Python skills
-- 🚀 Preparing first web deployment
-- 🤝 Open to collaborations across various projects
-- 💡 Seeking guidance with CI/CD implementations
+- Enhancing homelab automation
+- Advancing Python skills
+- Preparing first web deployment
+- Open to collaborations across various projects
+- Seeking guidance with CI/CD implementations
+
+----
 
 ## 📬 Contact
 
