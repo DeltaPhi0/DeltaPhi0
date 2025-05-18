@@ -110,9 +110,9 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-*For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
-
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
+
+*For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
 
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
