@@ -35,7 +35,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
 **Core Components**:
-- 🛡️ **Secure Foundation**: Raspberry Pi 3 VPN Server (WireGuard + OpenVPN)
+- 🛡️ **Security + Remote-access**: 3 VPN Server (WireGuard + OpenVPN)
 - 🎥 **Media Stack**: 
   [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
   [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
@@ -44,11 +44,11 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
   
 - ☁️ **Storage Solution**: Cross-device sync via 
   
-**Future Roadmap**:
-- 🌿 Exploring [CasaOS](https://casaos.io/) for unified management
+**Future Roadmap**: 
 - 🔐 Implementing Vaultwarden for password management
+- 🌿 Exploring open-source option to implement on my server! Any tips are very much welcome
 
-*Special thanks to my friend Leonard for jumpstarting this journey with the Raspberry Pi! ❤️*
+*Special thanks to my friend Leonard for jumpstarting this journey with the Raspberry Pi 3! ❤️*
 
 **Tech Stack**: 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
