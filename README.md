@@ -48,7 +48,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ## 🚀 Active Projects
 ### Homelab Infrastructure (Started 2025-02-12)
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/homelab)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
 </div>
 
@@ -72,6 +71,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Debian](https://img.shields.io/badge/Debian-Debian_Bookworm-A81D33?logo=debian&logoColor=white)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
 ----
 
