@@ -53,8 +53,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 </div>
 
 **Core Components**:
-- 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN) [✅ operational]
-- 🎥 **Media Stack**: [✅ operational]
+- 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN)
+- 🎥 **Media Stack**:
   [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
   [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
   [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
