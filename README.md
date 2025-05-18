@@ -91,6 +91,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ----
 
+</div>
+
 ## ⚡ Current Focus
 - Enhancing homelab automation
 - Advancing Python skills
@@ -110,7 +112,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
 
-</div>
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
