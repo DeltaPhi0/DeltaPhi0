@@ -40,6 +40,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - 📚 Media services: Calibre + Jellyfin + Navidrome (Docker)
 - ☁️ Cross-device cloud storage solution
 - 🔄 Current development: Automation pipelines
+- 🌱 Future possibilities: Always exploring self-hosted alternatives to paid services!
 
 **Tech Stack**: 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
