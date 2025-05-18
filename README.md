@@ -32,14 +32,23 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ## 🚀 Active Projects
 ### Homelab Infrastructure (Started 2025-02-12)
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/homelab)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
 **Core Components**:
-- 🖥️ Raspberry Pi VPN setup
-- 📚 Media services: Calibre + Jellyfin + Navidrome (Docker)
-- ☁️ Cross-device cloud storage solution
-- 🔄 Current development: Automation pipelines
-- 🌱 Future possibilities: Always exploring self-hosted alternatives to paid services!
-- ❤️ A special thanks to my friend Leonard, who gave me access to the Raspberry Pi to begin with
+- 🛡️ **Secure Foundation**: Raspberry Pi 3 VPN Server (WireGuard + OpenVPN)
+- 🎥 **Media Stack**: 
+  [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
+  [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
+  [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
+  _(Dockerized deployment)_
+  
+- ☁️ **Storage Solution**: Cross-device sync via 
+  
+**Future Roadmap**:
+- 🌿 Exploring [CasaOS](https://casaos.io/) for unified management
+- 🔐 Implementing Vaultwarden for password management
+
+*Special thanks to my friend Leonard for jumpstarting this journey with the Raspberry Pi! ❤️*
 
 **Tech Stack**: 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
