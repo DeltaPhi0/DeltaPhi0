@@ -1,14 +1,10 @@
 <!-- Header Section -->
 
-<div align="center">
-
 # Hi there, I'm Ken J. S. (DeltaPhi0)! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;DevOps+Aspirant;Automation+Focus)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
-
-</div>
 
 ----
 
