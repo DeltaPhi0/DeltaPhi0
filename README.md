@@ -2,8 +2,6 @@
 # Hi there, I'm Ken J. S. (DeltaPhi0)! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;DevOps+Aspirant;Automation+Focus)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenetsokoli601@gmail.com)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
 
 ## 🔥 About Me
@@ -13,9 +11,9 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - ⚡ Automation with Bash scripting
 
 **Learning Journey**:
-- 🌱 Currently studying: Java & infrastructure automation
+- 🌱 Currently studying: Java & infrastructure automation with Bash and Python
 - 💡 Passionate about: Efficient workflows and scripting
-- 🎯 2025 Goals: Python proficiency | OverTheWire Bandit | First web deployment
+- 🎯 2025 Goals: Python proficiency | OverTheWire Bandit challenge completion | First web page deployment
 - ⚡ Started tech journey: October 2024
 
 ## 🛠️ Technical Toolkit
@@ -36,11 +34,12 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
 **Core Components**:
-- 🖥️ Raspberry Pi VPN setup (Thanks Leonard!)
+- 🖥️ Raspberry Pi VPN setup
 - 📚 Media services: Calibre + Jellyfin + Navidrome (Docker)
 - ☁️ Cross-device cloud storage solution
 - 🔄 Current development: Automation pipelines
 - 🌱 Future possibilities: Always exploring self-hosted alternatives to paid services!
+- ❤️ A special thanks to my friend Leonard, who gave me access to the Raspberry Pi to begin with
 
 **Tech Stack**: 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
