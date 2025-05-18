@@ -20,7 +20,10 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 **Learning Journey**:
 - 🌱 Currently studying: Java & infrastructure automation with Bash and Python
 - 💡 Passionate about: Efficient workflows and scripting
-- 🎯 2025 Goals: Python proficiency | OverTheWire Bandit challenge completion | First web page deployment
+- 🎯 2025 Goals: 
+    - Python proficiency 
+    - OverTheWire Bandit challenge completion 
+    - First web page deployment
 - ⚡ Started tech journey: October 2024
 
 ----
@@ -53,8 +56,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 </div>
 
 **Core Components**:
-- 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN)
-- 🎥 **Media Stack**: 
+- 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN) [✅ operational]
+- 🎥 **Media Stack**: [✅ operational]
   [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
   [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
   [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
@@ -66,7 +69,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - 🔐 Implementing Vaultwarden for password management
 - 🌿 Exploring open-source option to implement on my server! Any tips are very much welcome
 
-*Special thanks to my friend Leonard for jumpstarting this journey with the Raspberry Pi 3! ❤️*
+*✨ Special thanks to my friend Leonard for the Raspberry Pi 3! ✨*
 
 **Tech Stack**: 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
@@ -112,6 +115,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 *For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
+
+[![Holopin Board](https://holopin.io/api/user/board?user=deltaphi0)](https://holopin.io/@deltaphi0)
 
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
