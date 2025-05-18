@@ -42,7 +42,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
   [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
   _(Dockerized deployment)_
   
-- ☁️ **Storage Solution**: Cross-device sync via 
+- ☁️ **Storage Solution**: Cross-device sync via Samba
   
 **Future Roadmap**: 
 - 🔐 Implementing Vaultwarden for password management
