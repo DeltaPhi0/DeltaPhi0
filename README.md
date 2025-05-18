@@ -59,9 +59,16 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - 💡 Seeking guidance with CI/CD implementations
 
 ## 📬 Contact
-📧 Primary Contact: [kenetsokoli601@gmail.com](mailto:kenetsokoli601@gmail.com)  
-🔗 Social Profiles: Coming soon!
 
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-kenetsokoli601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenetsokoli601@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
+[![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
+
+*For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
+
+![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
