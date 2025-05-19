@@ -1,12 +1,10 @@
 <!-- Header Section -->
 
-# Hi there, I'm Ken J. S. (DeltaPhi0)! 👋
+# Hi there, I'm Ken J. S. (A.K.A DeltaPhi0) from Italy! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;DevOps+Aspirant;Automation+Focus)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
-
-----
 
 ## 🔥 About Me
 Tech student building DevOps expertise through hands-on learning. Current focus:
@@ -23,8 +21,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
     - First web page deployment
 - ⚡ Started tech journey: October 2024
 
-----
-
 <div align="center">
 
 ## 🛠️ Technical Toolkit
@@ -36,14 +32,10 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-----
-
 ## 📈 GitHub Activity
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeltaPhi0&show_icons=true&theme=radical)](https://github.com/DeltaPhi0)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=radical)](https://github.com/DeltaPhi0)
-
-----
 
 ## 🚀 Active Projects
 ### Homelab (Started 2025-02-12)
@@ -74,8 +66,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ![Debian](https://img.shields.io/badge/Debian-Debian_Bookworm-A81D33?logo=debian&logoColor=white)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org/)
 
-----
-
 <div align="center">
 
 ### Web Development Project
@@ -90,8 +80,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 **Local Hosting Details**:  
 🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
-
-----
 
 </div>
 
