@@ -46,8 +46,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 ----
 
 ## 🚀 Active Projects
-### Homelab Infrastructure (Started 2025-02-12)
-[![Repo](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/homelab)
+### Homelab (Started 2025-02-12)
+[![Explore Repo →](https://img.shields.io/badge/Explore_Repository_→-2D333B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
 </div>
 
