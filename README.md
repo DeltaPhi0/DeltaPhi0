@@ -102,8 +102,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - Open to collaborations across various projects
 - Seeking guidance with CI/CD implementations
 
-----
-
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-kenetsokoli601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenetsokoli601@gmail.com)  
@@ -111,8 +109,6 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
-
-*For professional inquiries, email is preferred. Telegram/Discord open for technical discussions!*
 
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
