@@ -38,7 +38,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=radical)](https://github.com/DeltaPhi0)
 
 ## 🚀 Active Projects
-### [Homelab](../homelab/README.md) (Started 2025-02-12)
+### [Homelab](https://github.com/DeltaPhi0/homelab/README.md) (Started 2025-02-12)
 [![Explore Repo →](https://img.shields.io/badge/Explore_Repository_→-2D333B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
 </div>
