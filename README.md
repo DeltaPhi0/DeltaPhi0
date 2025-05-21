@@ -17,7 +17,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 - 💡 Passionate about: Efficient workflows and scripting
 - 🎯 2025 Goals: 
     - Python proficiency 
-    - OverTheWire Bandit challenge completion [![Progress](https://img.shields.io/badge/Progress-85%25-purple)]()
+    - [OverTheWire](https://overthewire.org/wargames/) Bandit challenge completion [![Progress](https://img.shields.io/badge/Progress-85%25-purple)]()
     - First web page deployment
 - ⚡ Started tech journey: October 2024
 
