@@ -103,7 +103,6 @@ DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ```
-Honey, This Mirror Isn't Big Enough for the Two of Us by My Chemical Romance
 ```
 🎧 Now Playing:
 ```
