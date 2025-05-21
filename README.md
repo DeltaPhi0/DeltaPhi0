@@ -102,7 +102,10 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🎧 Now Playing:
 ```
 You Know What They Do to Guys Like Us in Prison by My Chemical Romance
+```
+🎧 Now Playing:
+```
+Honey, This Mirror Isn't Big Enough for the Two of Us by My Chemical Romance
 ```
