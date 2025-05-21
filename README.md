@@ -96,11 +96,10 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎵 **Now Playing:** _Prison Song_ by **System of a Down**  
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
 
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🎵 **Now Playing:** _Sugar_ by **System of a Down**
+## 🎵 **Now Playing:** _A.D.D. (American Dream Denial)_ by **System of a Down**
