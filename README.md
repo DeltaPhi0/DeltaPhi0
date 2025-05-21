@@ -92,9 +92,9 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ## 📬 Contact
 
-[![Email](https://img.shields.io/badge/Email-kenetsokoli601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenetsokoli601@gmail.com)  
+[![Email   ](https://img.shields.io/badge/Email-kenetsokoli601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenetsokoli601@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
-[![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
+[![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
 ## ⏯️**Now Playing:** _Dreaming (Album Version)_ by **System of a Down**
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
