@@ -98,13 +98,8 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/663710793568616449)
 
-<sub>THIS SECTION GETS UPDATED EVERY 2 MINUTES AUTOMATICALLY THANKS TO A SCRIPT I HAVE RUNNING ON MY SERVER</sub>
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<<<<<<< HEAD
-<sub>THIS SECTION GETS UPDATED EVERY 2 MINUTES AUTOMATICALLY</sub>
-=======
->>>>>>> 9898014830d999fbcfb6079f5fbd6255d79879e4
-🎵 **Now Playing:** _X_ by **System of a Down**
+🎵 **Now Playing:** _Prison Song_ by **System of a Down**
