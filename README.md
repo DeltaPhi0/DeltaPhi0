@@ -103,4 +103,4 @@ DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## 🎵 **Now Playing:** _Prison Song_ by **System of a Down**  
-<sub>THIS SECTION GETS AUTOMATIALLY UPDATED EVERY 2 MINUTES FROM A SCRIPT I HAVE RUNNING ON MY SERVER. IT SHOWS WHAT I LISTEN TO ON NAVIDROME</sub>
+<sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
