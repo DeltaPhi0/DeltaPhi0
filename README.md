@@ -102,4 +102,4 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🎵 No music playing
+## 🎵 **Now Playing:** _Heaven Help Us_ by **My Chemical Romance**
