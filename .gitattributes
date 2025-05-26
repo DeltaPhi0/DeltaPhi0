@@ -1,4 +1,0 @@
-*.yml linguist-detectable=true linguist-language=YAML
-*.yaml linguist-detectable=true linguist-language=YAML
-
-homelab/media/navidrome/docker-compose.yaml linguist-language=YAML
