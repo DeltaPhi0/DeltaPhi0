@@ -34,7 +34,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 
 ## 📈 GitHub Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&count_private=true&theme=tokyonight&count_private=true)](https://github.com/DeltaPhi0)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&count_private=true&theme=tokyonight)](https://github.com/DeltaPhi0)
 
 ## 🚀 Active Projects
 ### [Homelab](https://github.com/DeltaPhi0/homelab) (Started 2025-02-12)
