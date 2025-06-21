@@ -95,7 +95,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶**Now Playing:** _Say It Ain't So - Original Mix_ as of 18:38
+## 🎶**Now Playing:** _Say It Ain't So - Original Mix_ as of 18:40
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
 
 <!---
