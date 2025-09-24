@@ -2,23 +2,26 @@
 
 # Hi there, I'm Ken J. S. (A.K.A DeltaPhi0) from Italy! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;DevOps+Aspirant;Automation+Focus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;Cybersecurity+Focus;SOC+Analyst+Aspirant)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
 
 ##  About Me
-Tech student building DevOps and Cybersecurity expertise through handson learning. Current focus:
--  Deep Linux system knowledge.
+Aspiring Cybersecurity analyst building expertise through hands on project and formal training. Currently focused on developing core skills for Security Operations Centers (SOC):
+-  Network Security Analysis (Wireshark)
+-  Deep Linux system knowledge and hardening.
+-  Security and system automation with Python and Bash.
 -  Web fundamentals (HTML/CSS/JS).
--  Automation with Bash and Python.
 
 **Learning Journey**:
-- 🌱 Currently studying: Java & infrastructure automation with Bash and Python
-- 💡 Passionate about: Efficient workflows and scripting
-- 🎯 2025 Goals: 
+-  Currently studying: Java, automation with Bash and Python & databases logic with SQL.
+-  Passionate about: Security, efficient workflows and scripting
+-  2025 Goals: 
     - Python proficiency 
     - [OverTheWire](https://overthewire.org/wargames/) Bandit challenge completion [![Progress](https://img.shields.io/badge/Progress-85%25-purple)]()
     - First web page deployment
+    - Google's foundations of cybersecurity course
+    - TryHackMe's SOC 1 course 
 - ⚡ Started tech journey: October 2024
 
 <div align="center">
@@ -95,7 +98,7 @@ Tech student building DevOps and Cybersecurity expertise through handson learnin
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶No music playing as of 09:14
+## 🎶No music playing as of 09:28
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
 
 <!---
