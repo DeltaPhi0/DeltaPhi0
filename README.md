@@ -6,11 +6,11 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DeltaPhi0&style=flat-square&color=blueviolet)
 
-## 🔥 About Me
-Tech student building DevOps expertise through hands-on learning. Current focus:
-- 🐧 Deep Linux system exploration
-- 🌐 Web fundamentals (HTML/CSS/JS)
-- ⚡ Automation with Bash scripting
+##  About Me
+Tech student building DevOps and Cybersecurity expertise through handson learning. Current focus:
+-  Deep Linux system knowledge.
+-  Web fundamentals (HTML/CSS/JS).
+-  Automation with Bash and Python.
 
 **Learning Journey**:
 - 🌱 Currently studying: Java & infrastructure automation with Bash and Python
@@ -95,7 +95,7 @@ Tech student building DevOps expertise through hands-on learning. Current focus:
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶**Now Playing:** _Maneater_ by **Daryl Hall & John Oates as of 09:12**
+## 🎶No music playing as of 09:14
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
 
 <!---
