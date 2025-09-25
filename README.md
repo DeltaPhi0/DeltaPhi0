@@ -35,11 +35,11 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&count_private=true&theme=tokyonight)](https://github.com/DeltaPhi0)
 
-## 🚀 Active Projects
+##  Active Projects
 ### [Homelab](https://github.com/DeltaPhi0/homelab) (Started 2025-02-12)
 [![Explore Repo →](https://img.shields.io/badge/Explore_Repository_→-2D333B?style=for-the-badge&logo=git?logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
@@ -47,7 +47,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 
 **Core Components**:
 - 🛡️ **Security + Remote-access**: VPN Server (WireGuard + OpenVPN)
-- 🎥 **Media Stack**:
+-  **Media Stack**:
   [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)](https://jellyfin.org/)
   [![Calibre](https://img.shields.io/badge/Calibre-333?style=flat&logo=calibre&logoColor=white)](https://calibre-ebook.com/)
   [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
@@ -98,8 +98,8 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶No music playing as of 11:14
-<sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
+## 🎶No music playing as of 11:16
+<sub><sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub></sub>
 
 <!---
 DeltaPhi0/DeltaPhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
