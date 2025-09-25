@@ -18,7 +18,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 -  Passionate about: Security, efficient workflows and scripting
 -  2025 Goals: 
     - Python proficiency 
-    - [OverTheWire](https://overthewire.org/wargames/) Bandit challenge completion [![Progress](https://img.shields.io/badge/Progress-85%25-purple)]()
+    - [OverTheWire](https://overthewire.org/wargames/) Bandit challenge completion [![Progress](https://img.shields.io/badge/Progress-100%25-purple)]()
     - First web page deployment
     - Google's foundations of cybersecurity course
     - TryHackMe's SOC 1 course 
@@ -98,7 +98,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶No music playing as of 11:58
+## 🎶No music playing as of 12:00
 <sub><sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub></sub>
 
 <!---
