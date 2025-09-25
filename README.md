@@ -26,7 +26,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 
 <div align="center">
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -53,11 +53,11 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
   [![Navidrome](https://img.shields.io/badge/Navidrome-00B894?style=flat&logo=navidrome&logoColor=white)](https://www.navidrome.org/)
   _(Dockerized deployment)_
   
-- ☁️ **Storage Solution**: Cross-device sync via Samba
+-  **Storage Solution**: Cross-device sync via Samba
   
 **Future Roadmap**: 
-- 🔐 Implementing Vaultwarden for password management
-- 🌿 Exploring open-source option to implement on my server! Any tips are very much welcome
+-  Implementing Vaultwarden for password management
+-  Exploring open-source option to implement on my server! Any tips are very much welcome
 
 *✨ Special thanks to my friend Leonard for the Raspberry Pi 3! ✨*
 
@@ -78,14 +78,14 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Current Status**: 
-`🚧 Active Development` [![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)]()
+` Active Development` [![Progress](https://img.shields.io/badge/Progress-25%25-brightgreen)]()
 
 **Local Hosting Details**:  
-🌐 **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
+ **Access**: `http://192.168.0.100:8000` (Local network only, powered by Nginx)
 
 </div>
 
-## ⚡ Current Focus
+##  Current Focus
 - Enhancing homelab automation
 - Advancing Python skills
 - Preparing first web deployment
@@ -98,7 +98,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶No music playing as of 11:12
+## 🎶No music playing as of 11:14
 <sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub>
 
 <!---
