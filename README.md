@@ -1,6 +1,6 @@
 <!-- Header Section -->
 
-# Hi there, I'm Ken J. S. (A.K.A DeltaPhi0) from Italy! 👋
+# Hi there, I'm Ken J. V. S. (A.K.A DeltaPhi0) from Italy! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;Cybersecurity+Focus;SOC+Analyst+Aspirant)](https://git.io/typing-svg)
 
