@@ -98,7 +98,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶**Now Playing:** _Thanatos - Evangelion OST - Shirō Sagisu _ 鷺巣 詩郎_ by **Momentz as of 08:30**
+## 🎶**Now Playing:** _『チェンソーマン』ノンクレジットオープニング _ CHAINSAW MAN  Opening│米津玄師 「KICK BACK」_ by **MAPPA CHANNEL as of 08:32**
 <sub><sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub></sub>
 
 <!---
