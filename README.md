@@ -98,7 +98,7 @@ Aspiring Cybersecurity analyst building expertise through hands on project and f
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)  
 [![Discord ](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaphi0)  
 
-## 🎶No music playing as of 09:34
+## 🎶No music playing as of 09:36
 <sub><sub>This section is automatically updated every 2 minutes by a script running on my server. It shows what I'm currently listening to via Navidrome.</sub></sub>
 
 <!---
