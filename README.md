@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ken J. S. (A.K.A DeltaPhi0) from Italy!
+# Hi there, i'm Ken J. S. (a.k.a DeltaPhi0) from Italy!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;Cybersecurity+Focus;SOC+Analyst+Aspirant)](https://git.io/typing-svg)
 
@@ -10,24 +10,24 @@
 
 ---
 
-## About Me
-I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with real-world projects. I started my tech journey back in October 2024, and things have escalated quickly since then! Right now, my main focus is developing the core skills needed for Security Operations Centers (SOC).
+## About me
+I am an aspiring cybersecurity analyst who loves getting my hands dirty with real world projects. I started my tech journey in october 2024, and things have escalated quickly! My main focus is developing the core skills needed for security operations centers (soc) and defensive security.
 
-**My Learning Journey**:
-* **Currently studying:** Rust programming, database logic with SQL, and advanced automation with Bash/Python.
-* **Passionate about:** InfoSec, building incredibly efficient workflows, and breaking/fixing my own servers.
+**My learning journey**:
+* **Currently studying:** Rust programming, database logic with sql, and advanced automation with bash/python.
+* **Passionate about:** Infosec, building efficient workflows, and "breaking to fix" my own servers.
 
 **Goals**:
-* Master Rust and Python.
-* [OverTheWire](https://overthewire.org/wargames/) Bandit challenge [![Progress](https://img.shields.io/badge/Progress-100%25-purple)]() (Finished it!)
+* Master rust and python for security automation.
+* [Overthewire](https://overthewire.org/wargames/) Bandit challenge [![Progress](https://img.shields.io/badge/Progress-100%25-purple)]() (Completed!)
 * Deploy my first web page to the wild.
-* Complete Google's Foundations of Cybersecurity and TryHackMe's SOC 1 courses.
+* Complete google's foundations of cybersecurity and tryhackme's soc 1 pathways.
 
 ---
 
 <div align="center">
 
-## Technical Toolkit
+## Technical toolkit
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 
 <br>
 
-## GitHub Activity
+## Github activity
 
 [![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=DeltaPhi0&layout=compact&theme=tokyonight)](https://github.com/DeltaPhi0)
 
@@ -49,44 +49,47 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 
 ---
 
-## Featured Engineering Portfolio
+## Featured portfolio
 
-### [2026 projects](https://github.com/DeltaPhi0/2026_projects)
+### [Current infrastructure: phi (2026 homelab)](https://github.com/DeltaPhi0/2026_projects)
 [![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/2026_projects)
 
-I have documented the exact architecture, network isolation strategies, and custom Bash automation scripts that power my infrastructure. **If you want to see my code and thought process, start here.**
+My active production environment. I migrated from a raspberry pi to **'Phi'**, a high performance node (i5 14500, 3060 ti) to support gpu accelerated workloads and complex network routing. This repository documents the security protocols, network isolation strategies, and custom automation scripts powering my operations.
 
-**Inside the repository you will find:**
-* **Secure remote boot:** My custom "Double-TTY Strike" script for remote LUKS decryption via a Dropbear initramfs environment.
-* **Automated cloud backup:** A dual-stage disaster recovery pipeline utilizing tar compression and secure rclone API transport to Google Drive.
-* **Docker infrastructure:** Sanitized Compose configurations demonstrating strict microservice network isolation, healthchecks, and reverse proxy routing.
+**Key technical achievements:**
+* **Scale and isolation:** Managing 20+ docker containers with strict microservice network isolation and reverse proxy routing.
+* **Secure remote boot:** Custom "double tty strike" script for remote luks decryption via a dropbear initramfs environment.
+* **Custom rust api:** Developed a backend in rust to feed real time data into a homarr iframe, focusing on memory safe data handling.
+* **Network resolution:** Orchestrated nginx and pi hole within a shared docker network, resolving port 53/80/443 conflicts and implementing local dns rewrites.
+* **Automated cloud backup:** A dual stage disaster recovery pipeline using tar compression and secure rclone api transport to google drive.
+
+**The docker fleet**:
+* **Media and automation:** Radarr, sonarr, lidarr, prowlarr, qbittorrent, jellyfin, navidrome, and audiobookshelf.
+* **Productivity:** Immich (machine learning for photo tagging), trilium (note taking), and code server for remote development.
+* **Monitoring:** Uptime kuma (integrated with telegram bots for real time alerts), dashdot, dozzle, and watchtower.
+* **Gaming:** **Steam headless** — a gpu accelerated gaming instance (sunshine/moonlight) leveraging the 3060 ti in a containerized environment.
 
 <br>
 
-### [The Homelab Evolution](https://github.com/DeltaPhi0/homelab)
+### [The origin story: raspberry pi setup guides (2025)](https://github.com/DeltaPhi0/homelab)
 [![Explore Repo](https://img.shields.io/badge/Explore_Repository-2D333B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
-Since I first wrote this README, my infrastructure has gone through a massive overhaul. I recently retired my Raspberry Pi 3 as the main brain (shoutout and special thanks to my friend Leonard for giving it to me, it started this whole addiction!) and migrated everything to my repurposed gaming PC.
+This is the origin story of my self-hosting addiction. It serves as a comprehensive, step by step tutorial repository for anyone looking to turn a €40 Raspberry Pi 3 into a secure, headless home server. If you are a beginner, start here.
 
-**My Current Architecture & Security Setup**:
-* **Remote access & Wake on LAN:** I run a secondary, lightweight server that acts strictly as a VPN gateway. When I need my main server online, I connect to the gateway and send Magic Packets to wake the gaming PC.
-* **Pre boot decryption:** Security is a priority. The main server uses LUKS full disk encryption. When it boots, it halts at an initramfs environment running Dropbear SSH. I remote in, provide the passphrase, and the system continues booting.
-* **Networking:** All local traffic routing and custom domains are handled by a combo of Pi hole (for DNS) and Nginx Proxy Manager.
-* **Automated Backups:** I wrote a custom service that automatically archives my critical configuration files and data into a `tar.gz` and pushes it directly to my Google Drive.
+**Inside the repository you will find:**
+* **Headless Server Basics:** Step by step guides on flashing Debian, configuring static IPs via nmtui, and locking down SSH with RSA keys and disabled password authentication.
+* **Networking & VPNs:** Detailed instructions for safely exposing the Pi to the outside world using port forwarding, PiVPN (WireGuard), and OpenVPN.
+* **Automated setup scripts:** Custom Bash scripts I wrote to automate the installation and permission handling for Samba File Shares and Jellyfin media servers.
+* **Containerization 101:** Beginner friendly Docker installation guides and docker-compose.yaml templates for lightweight services like Navidrome.
 
-**The Docker Fleet**:
-Everything is containerized and managed via Portainer. My current stack includes:
-* **Media, books:** Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, qBittorrent, jellyfin, Jellyseerr, Navidrome, Audiobookshelf, and Kavita.
-* **Productivity and data:** Immich (running the machine learning container for photo tagging), Trilium for notes(please use this! It is such a beautiful and useful program!!), Anki Sync Server, and Code server so I can code from any browser.
-* **Management, monitoring:** Homarr, Dashdot, Uptime Kuma, Dozzle, Watchtower, and Deunhealth to keep containers in check.
-* **Custom Projects:** 4gaboards (paired with a PostgreSQL 16 database).
+--- 
 
 ---
 
-## What's Next?
-* Diving deeper into Rust.
-* Rebuilding my automated "Now Playing" script for Navidrome, maybe adding even others so it shows up live on my profile again.
-* Always open to open source collaboration..if you have tips on whatever you see or cool self hosted projects, let me know!
+## What's next?
+* Diving deeper into advanced rust for security tooling.
+* Rebuilding my automated "now playing" script for navidrome profile integration.
+* Open to collaboration on open source security or self hosting projects!
 
 ---
 
