@@ -36,7 +36,7 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 ## Featured engineering Portfolio
 
 ### [2026 projects](https://github.com/DeltaPhi0/2026_projects)
-[![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/projects)
+[![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/2026_projects)
 
 </div>
 
