@@ -33,9 +33,9 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=tokyonight)](https://github.com/DeltaPhi0)
 
-## Featured Engineering Portfolio
+## Featured engineering Portfolio
 
-### [Cybersecurity & Homelab Sandbox](https://github.com/DeltaPhi0/projects)
+### [2026 projects](https://github.com/DeltaPhi0/2026_projects)
 [![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/projects)
 
 </div>
