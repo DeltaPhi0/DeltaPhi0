@@ -1,4 +1,4 @@
-# Hi there, I'm Ken J. V. S. (A.K.A DeltaPhi0) from Italy!
+# Hi there, I'm Ken J. S. (A.K.A DeltaPhi0) from Italy!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&background=FF2A5500&width=435&lines=Linux+Enthusiast;Cybersecurity+Focus;SOC+Analyst+Aspirant)](https://git.io/typing-svg)
 
@@ -33,34 +33,48 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=tokyonight)](https://github.com/DeltaPhi0)
 
-## Active Projects
+## Featured Engineering Portfolio
+
+### [Cybersecurity & Homelab Sandbox](https://github.com/DeltaPhi0/projects)
+[![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/projects)
+
+</div>
+
+I have documented the exact architecture, network isolation strategies, and custom Bash automation scripts that power my infrastructure. **If you want to see my code and thought process, start here.**
+
+**Inside the repository you will find:**
+- **Secure remote boot:** My custom "Double-TTY Strike" script for remote LUKS decryption via a Dropbear initramfs environment.
+- **Automated cloud backup:** A dual-stage disaster recovery pipeline utilizing tar compression and secure rclone API transport to Google Drive.
+- **Docker infrastructure:** Sanitized Compose configurations demonstrating strict microservice network isolation, healthchecks, and reverse proxy routing.
+
+---
+
+<div align="center">
 
 ### [The Homelab Evolution](https://github.com/DeltaPhi0/homelab)
 [![Explore Repo](https://img.shields.io/badge/Explore_Repository-2D333B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
 </div>
 
-Since I first wrote this README, my infrastructure has gone through a massive overhaul. I recently retired my Raspberry Pi 3 as the main brain (though a huge shoutout and special thanks to my friend Leonard for giving it to me—it started this whole addiction!) and migrated everything to an ex-gaming PC.
+Since I first wrote this README, my infrastructure has gone through a massive overhaul. I recently retired my Raspberry Pi 3 as the main brain (shoutout and special thanks to my friend Leonard for giving it to me, it started this whole addiction!) and migrated everything to my repurposed gaming PC.
 
 **My Current Architecture & Security Setup**:
-- **Remote Access & Wake-on-LAN**: I run a secondary, lightweight server that acts strictly as a VPN gateway. When I need my main server online, I connect to the gateway and send Magic Packets to wake the gaming PC.
-- **Pre-Boot Decryption**: Security is a priority. The main server uses LUKS full-disk encryption. When it boots, it halts at an initramfs environment running Dropbear SSH. I remote in, provide the passphrase, and the system continues booting.
-- **Networking**: All local traffic routing and custom domains are handled by a combo of Pi-hole (for DNS) and Nginx Proxy Manager.
+- **Remote access & Wake on LAN**: I run a secondary, lightweight server that acts strictly as a VPN gateway. When I need my main server online, I connect to the gateway and send Magic Packets to wake the gaming PC.
+- **Pre boot decryption**: Security is a priority. The main server uses LUKS full disk encryption. When it boots, it halts at an initramfs environment running Dropbear SSH. I remote in, provide the passphrase, and the system continues booting.
+- **Networking**: All local traffic routing and custom domains are handled by a combo of Pi hole (for DNS) and Nginx Proxy Manager.
 - **Automated Backups**: I wrote a custom service that automatically archives my critical configuration files and data into a `tar.gz` and pushes it directly to my Google Drive.
 
 **The Docker Fleet**:
 Everything is containerized and managed via Portainer. My current stack includes:
-- **Media & Books**: Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, qBittorrent, Jellyseerr, Navidrome, Audiobookshelf, and Kavita.
-- **Productivity & Data**: Immich (running the machine learning container for photo tagging), Trilium for notes, Anki Sync Server, and Code-Server so I can code from any browser.
-- **Management & Monitoring**: Homarr, Dashdot, Uptime Kuma, Dozzle, Watchtower, and Deunhealth to keep containers in check.
+- **Media, books**: Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, qBittorrent, jellyfin, Jellyseerr, Navidrome, Audiobookshelf, and Kavita.
+- **Productivity and data**: Immich (running the machine learning container for photo tagging), Trilium for notes(please use this! It is such a beautiful and useful program!!), Anki Sync Server, and Code server so I can code from any browser.
+- **Management, monitoring**: Homarr, Dashdot, Uptime Kuma, Dozzle, Watchtower, and Deunhealth to keep containers in check.
 - **Custom Projects**: 4gaboards (paired with a PostgreSQL 16 database).
-- 
 
 ## What's Next?
 - Diving deeper into Rust.
-- Rebuilding my automated "Now Playing" script for Navidrome so it shows up live on my profile again.
-- Setting up proper CI/CD pipelines.
-- Always open to open-source collaboration—if you have tips on vaultwarden deployments or cool self-hosted projects, let me know!
+- Rebuilding my automated "Now Playing" script for Navidrome, maybe adding even others so it shows up live on my profile again.
+- Always open to open source collaboration..if you have tips on whatever you see or cool self hosted projects, let me know!
 
 ## Contact
 
