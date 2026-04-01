@@ -31,7 +31,7 @@ I am an aspiring Cybersecurity Analyst who loves getting my hands dirty with rea
 
 ## GitHub Activity
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaPhi0&layout=compact&theme=tokyonight)](https://github.com/DeltaPhi0)
+[![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=DeltaPhi0&layout=compact&theme=tokyonight)](https://github.com/DeltaPhi0)
 
 ## Featured engineering Portfolio
 
