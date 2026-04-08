@@ -51,16 +51,17 @@ I am an aspiring cybersecurity analyst who loves getting my hands dirty with rea
 
 ## Featured portfolio
 
-### [Current infrastructure: phi (2026 homelab)](https://github.com/DeltaPhi0/2026_projects)
+### [Current project: phi (2026 homelab)](https://github.com/DeltaPhi0/2026_projects)
 [![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/2026_projects)
 
-My active production environment. I migrated from a raspberry pi to **'Phi'**, a high performance node (i5 14500, 3060 ti) to support gpu accelerated workloads and complex network routing. This repository documents the security protocols, network isolation strategies, and custom automation scripts powering my operations.
+My active production environment. I migrated from a raspberry pi to **'Phi'**, a high performance computer (i5 14500, 3060 ti) to support gpu accelerated workloads and complex network routing. This repository documents the security protocols, network isolation, and custom automation scripts that power my operations.
 
 **Key technical achievements:**
-* **Scale and isolation:** Managing 20+ docker containers with strict microservice network isolation and reverse proxy routing.
-* **Secure remote boot:** Custom "double tty strike" script for remote luks decryption via a dropbear initramfs environment.
-* **Custom rust api:** Developed a backend in rust to feed real time data into a homarr iframe, focusing on memory safe data handling.
-* **Network resolution:** Orchestrated nginx and pi hole within a shared docker network, resolving port 53/80/443 conflicts and implementing local dns rewrites.
+* **My very first [Website](https://crimson.net.eu.org/)!** I set out to prove you can build a website for exactly €0, and I pulled it off! Check out my repositories for the blueprints and tools I used to keep it cost free.
+* **Scale and isolation:** Managing 30+ docker containers with strict network isolation and reverse proxy routing using NPM and Pi-hole.
+* **Secure remote boot:** Custom "double tty strike" script for remote luks decryption via dropbear initramfs, all initialized with WoL.
+* **Custom rust api:** Developed two backends in rust; one to power my website, and another to feed real time data into a homarr iframe, focusing on memory safe data handling.
+* **Network resolution:** Orchestrated Nginx Proxy Manager and Pi-hole within a shared docker network, only opening ports 53/80/443 with UFW and implementing local dns rewrites.
 * **Automated cloud backup:** A dual stage disaster recovery pipeline using tar compression and secure rclone api transport to google drive.
 
 **The docker fleet**:
@@ -74,10 +75,10 @@ My active production environment. I migrated from a raspberry pi to **'Phi'**, a
 ### [The origin story: raspberry pi setup guides (2025)](https://github.com/DeltaPhi0/homelab)
 [![Explore Repo](https://img.shields.io/badge/Explore_Repository-2D333B?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeltaPhi0/homelab)
 
-This is the origin story of my self-hosting addiction. It serves as a comprehensive, step by step tutorial repository for anyone looking to turn a €40 Raspberry Pi 3 into a secure, headless home server. If you are a beginner, start here.
+This is the origin story of my self-hosting addiction. It serves as a comprehensive, step by step tutorial repository for anyone looking to turn a €40 Raspberry Pi 3 into a secure, headless home server. If you are a beginner, you can start here.
 
 **Inside the repository you will find:**
-* **Headless Server Basics:** Step by step guides on flashing Debian, configuring static IPs via nmtui, and locking down SSH with RSA keys and disabled password authentication.
+* **Headless Server Basics:** Step by step guides on flashing your OS of choice, configuring static IPs via nmtui, and locking down SSH with RSA keys and disabled password authentication.
 * **Networking & VPNs:** Detailed instructions for safely exposing the Pi to the outside world using port forwarding, PiVPN (WireGuard), and OpenVPN.
 * **Automated setup scripts:** Custom Bash scripts I wrote to automate the installation and permission handling for Samba File Shares and Jellyfin media servers.
 * **Containerization 101:** Beginner friendly Docker installation guides and docker-compose.yaml templates for lightweight services like Navidrome.
@@ -87,6 +88,7 @@ This is the origin story of my self-hosting addiction. It serves as a comprehens
 ---
 
 ## What's next?
+* Rebuilding qBittorrent in Rust. This is very ambitious! But I hope I can achieve this one.
 * Diving deeper into advanced rust for security tooling.
 * Rebuilding my automated "now playing" script for navidrome profile integration.
 * Open to collaboration on open source security or self hosting projects!
