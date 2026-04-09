@@ -52,7 +52,7 @@ I am an aspiring cybersecurity analyst who loves getting my hands dirty with rea
 ## Featured portfolio
 
 ### [Current project: phi (2026 homelab)](https://github.com/DeltaPhi0/2026_Projects)
-[![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/2026_projects)
+[![View Portfolio](https://img.shields.io/badge/View_My_Code-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeltaPhi0/2026_Projects)
 
 My active production environment. I migrated from a raspberry pi to **'Phi'**, a high performance computer (i5 14500, 3060 ti) to support gpu accelerated workloads and complex network routing. This repository documents the security protocols, network isolation, and custom automation scripts that power my operations.
 
