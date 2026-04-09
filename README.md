@@ -71,7 +71,7 @@ My active production environment. I migrated from a raspberry pi to **'Phi'**, a
 * **Gaming:** **Steam headless** — a gpu accelerated gaming instance (sunshine/moonlight) leveraging the 3060 ti in a containerized environment.
 
 **Preview:**
-![Homarr Dashboard](https://raw.githubusercontent.com/DeltaPhi0/2026_Projects/main/screenshots/homarr.png?raw=true)
+[![Homarr Dashboard](https://raw.githubusercontent.com/DeltaPhi0/2026_Projects/main/screenshots/homarr-dashboard.png?raw=true&width=200)](https://raw.githubusercontent.com/DeltaPhi0/2026_Projects/main/screenshots/homarr.png)
 
 <br>
 
