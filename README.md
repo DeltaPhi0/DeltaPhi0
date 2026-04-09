@@ -70,6 +70,9 @@ My active production environment. I migrated from a raspberry pi to **'Phi'**, a
 * **Monitoring:** Uptime kuma (integrated with telegram bots for real time alerts), dashdot, dozzle, and watchtower.
 * **Gaming:** **Steam headless** — a gpu accelerated gaming instance (sunshine/moonlight) leveraging the 3060 ti in a containerized environment.
 
+**Preview:**
+![Homarr Dashboard](https://raw.githubusercontent.com/DeltaPhi0/2026_Projects/main/screenshots/homarr.png?raw=true)
+
 <br>
 
 ### [The origin story: raspberry pi setup guides (2025)](https://github.com/DeltaPhi0/homelab)
@@ -82,8 +85,6 @@ This is the origin story of my self-hosting addiction. It serves as a comprehens
 * **Networking & VPNs:** Detailed instructions for safely exposing the Pi to the outside world using port forwarding, PiVPN (WireGuard), and OpenVPN.
 * **Automated setup scripts:** Custom Bash scripts I wrote to automate the installation and permission handling for Samba File Shares and Jellyfin media servers.
 * **Containerization 101:** Beginner friendly Docker installation guides and docker-compose.yaml templates for lightweight services like Navidrome.
-
---- 
 
 ---
 
