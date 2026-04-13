@@ -100,7 +100,7 @@ This is the origin story of my self-hosting addiction. It serves as a comprehens
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-kenetsokoli601@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deep@crimson.net.eu.org)
+[![Email](https://img.shields.io/badge/Email-deep@crimson.net.eu.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deep@crimson.net.eu.org)
 [![Telegram](https://img.shields.io/badge/Telegram-@DeltaPhi001-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeltaPhi001)
 [![Discord](https://img.shields.io/badge/Discord-deltaphi0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/deltaxox)
 
